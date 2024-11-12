@@ -36,7 +36,8 @@
             "name": "TestRandom",
             "request": "launch",
             "mainClass": "TestRandom",
-            "projectName": "hw2-Alonlevy01_40d818c7"
+            "projectName": "hw2-Alonlevy01_40d818c7",
+            "args": ["3"]
         },
         {
             "type": "java",
