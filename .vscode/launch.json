@@ -15,7 +15,8 @@
             "name": "CalcPi",
             "request": "launch",
             "mainClass": "CalcPi",
-            "projectName": "hw2-Alonlevy01_40d818c7"
+            "projectName": "hw2-Alonlevy01_40d818c7",
+            "args": ["1"]
         },
         {
             "type": "java",
