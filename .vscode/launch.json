@@ -22,7 +22,8 @@
             "name": "Cheers",
             "request": "launch",
             "mainClass": "Cheers",
-            "projectName": "hw2-Alonlevy01_40d818c7"
+            "projectName": "hw2-Alonlevy01_40d818c7",
+            "args": ["Go" , "3"]
         },
         {
             "type": "java",
@@ -37,7 +38,7 @@
             "request": "launch",
             "mainClass": "TestRandom",
             "projectName": "hw2-Alonlevy01_40d818c7",
-            "args": ["3"]
+            "args": ["100"]
         },
         {
             "type": "java",

@@ -5,7 +5,6 @@ public  class  TestRandom {
 		int underCounter = 0;
 		int numOfTimes =Integer.parseInt(args[0]);
 		for(int i=0;i<numOfTimes; i++)	{
-			double randCheck = Math.random();
 			if (Math.random() > 0.5){
 				overCounter++;
 			}
