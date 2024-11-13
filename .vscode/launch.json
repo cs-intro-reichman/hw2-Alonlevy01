@@ -31,7 +31,8 @@
             "name": "Collatz",
             "request": "launch",
             "mainClass": "Collatz",
-            "projectName": "hw2-Alonlevy01_40d818c7"
+            "projectName": "hw2-Alonlevy01_40d818c7",
+            "args": ["5" , "c"]
         },
         {
             "type": "java",
